@@ -9,6 +9,11 @@
   text-align: center;
 }
 
+/* Users Index Page Styles */
+.user-index-avatar {
+  border-radius: 50%;
+}
+
 .well.contact-info {
   color: #ffffff;
   background-color: #5bc0de;
@@ -27,4 +32,6 @@
     -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.35);
     box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.35);
     border: 2px solid white;
+    height: 200px;
+    width: 200px;
 }
